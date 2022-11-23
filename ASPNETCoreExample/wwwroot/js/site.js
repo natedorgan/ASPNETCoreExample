@@ -11,6 +11,7 @@ function oldColor() {
     document.getElementById("header").style.color = "maroon";
 }
 
+var id = null
 function myMove() {
     var elem = document.getElementById("myAnimation");
     var pos = 0;
