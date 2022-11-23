@@ -2,3 +2,11 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your Javascript code.
+
+function newColor() {
+    document.getElementById("header").style.color = "gold";
+}
+
+function oldColor() {
+    document.getElementById("header").style.color = "maroon";
+}
