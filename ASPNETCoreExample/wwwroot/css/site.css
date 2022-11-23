@@ -73,3 +73,12 @@ body {
 .color-text {
     color: maroon;
 }
+
+#box {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background: $tc-green;
+}
